@@ -1,0 +1,30 @@
+PARTS
+---------------
+short M5 heat inserts
+M5 screws and nuts
+M3 screws for PSU case
+14mm flanged coupling
+rotary encoder module with flanged coupling
+Esp32 S3 module with a breakout board
+16/18 AWG wires with fork connectors
+Dupont jumper wires
+1,3in OLED display
+wire connection terminals (5 slots) | 2 pieces
+48v/24v to 5v DC converter
+Clamps stoppers (3mm hole diameter) | 4 pieces
+Stainless steel rods (3x300mm) | 4 pieces
+Closed loop nema24 (rated for 4Nm, 122mm in length)
+20 AWG motor extension cables (GX16 male plug and DB15 female plug)
+CL57Y v2.0 stepper driver, or any other closed loop driver for nema24
+5:1 reduction gear box for nema24
+3pin U-Plug with a switch
+3 Pin powercable
+Meanwell LRS350 48v/24v PSU
+95a TPU
+2KG of PETG (I used Tinmorry PETG-GF)
+---------------
+TOOLS
+
+M5 allen key
+M3 allen key
+Epoxy glue for the stainless steel rods
