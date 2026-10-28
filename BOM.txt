@@ -20,7 +20,7 @@ CL57Y v2.0 stepper driver, or any other closed loop driver for nema24
 3pin U-Plug with a switch
 3 Pin powercable
 Meanwell LRS350 48v/24v PSU
-95a TPU
+95a TPU (I used Overture TPU 95a)
 2KG of PETG (I used Tinmorry PETG-GF)
 ---------------
 TOOLS
